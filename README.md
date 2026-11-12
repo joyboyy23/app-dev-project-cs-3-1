@@ -5,4 +5,5 @@ members:
 Joenilo Estillero,
 John Lloyd Gerebit,
 Christian Mark Sta Ana,
-Aron Hona
+Aron 
+John Lawrenze Gipanao
